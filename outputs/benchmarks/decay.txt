@@ -1,0 +1,5 @@
+after 10 rounds of dropping 20% (final keep rate 0.107, ideal gap 9.3)
+method                           kept  max gap  x ideal
+golden threshold (nested)        2147       13     1.40
+random 20% each round            2147       63     6.76
+evict every 5th survivor         2149       24     2.58
